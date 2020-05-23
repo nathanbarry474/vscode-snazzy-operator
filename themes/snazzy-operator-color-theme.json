@@ -101,7 +101,7 @@
     },
     {
       "name": "Identifier",
-      "scope": "variable, support.variable, support.class, support.constant, meta.definition.variable entity.name.function",
+      "scope": "variable, support.variable, support.constant, meta.definition.variable entity.name.function",
       "settings": {
         "foreground": "#eff0eb"
       }
@@ -302,7 +302,7 @@
     },
     {
       "name": "HTML tag expression",
-      "scope": "punctuation.section.embedded",
+      "scope": "punctuation.section.embedded, support.class"
       "settings": {
         "foreground": "#ff5c57"
       }
